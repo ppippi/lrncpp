@@ -1,2 +1,2 @@
 # lrncpp
-C++ quizzes
+C++ basic programs
