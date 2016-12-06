@@ -1,4 +1,4 @@
-// ch3.2_everOrOdd.cpp : Defines the entry point for the console application.
+// ch3.2_evenOrOdd.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
